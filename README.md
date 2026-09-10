@@ -23,4 +23,6 @@ It allows users to:
 
 ## Project Page
 
-The live project URL will be added here after publishing the project using GitHub Pages.
+The live project URL will be added here after publishing the project using GitHub Pages
+
+## Project Page
