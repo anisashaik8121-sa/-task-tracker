@@ -17,13 +17,10 @@ It allows users to:
 
 ## How to Run
 
-1. Download or clone this repository.
-2. Open the project folder.
+1. Open the project repository.
+2. Download the project files.
 3. Open `index.html` in a web browser.
 
-## Project Page
+## Project URL
 
-The live project URL will be added here after publishing the project using GitHub Pages
-
-## Project Page
- https://anisashaik8121-sa.github.io/-task-tracker/
+https://anisashaik8121-sa.github.io/-task-tracker/
